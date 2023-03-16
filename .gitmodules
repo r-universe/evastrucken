@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "lactcurves"]
+	path = lactcurves
+	url = https://github.com/evastrucken/lactcurves
+	shallow = true
+	registered = true
